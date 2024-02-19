@@ -13,14 +13,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://rtfam.github.io',
+  url: 'https://faustoc.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/rtfam',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'FaustoC', // Usually your GitHub org/user name.
+  organizationName: 'faustoc', // Usually your GitHub org/user name.
   projectName: 'rtfam', // Usually your repo name.
   deploymentBranch: 'master',
   onBrokenLinks: 'throw',
