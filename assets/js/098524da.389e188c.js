@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrtfam=self.webpackChunkrtfam||[]).push([[9656],{2777:e=>{e.exports=JSON.parse('{"title":"General","description":"Generals most wanted answers.","slug":"/category/general","permalink":"/docs/category/general","navigation":{"next":{"title":"Nested actions or Nested effects","permalink":"/docs/general/nested actions"}}}')}}]);
