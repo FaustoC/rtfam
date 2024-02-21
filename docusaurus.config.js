@@ -64,12 +64,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/rtfam-social-card.png',
       navbar: {
         title: 'rtfAm',
         logo: {
-          alt: 'Read The *ucking Asoiaf Manual',
-          src: 'img/logo.svg',
+          alt: 'Read The Fabulous Asoiaf Manual',
+          src: 'img/logo.png',
         },
         items: [
           /*{
