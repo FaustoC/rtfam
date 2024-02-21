@@ -139,7 +139,7 @@ const config = {
             ],
           },*/
         ],
-        copyright: `Built with Docusaurus.`,
+        copyright: `Built by Fenice with Docusaurus.`,
       },
       colorMode: {
 	defaultMode: 'light',
