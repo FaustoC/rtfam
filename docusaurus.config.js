@@ -8,15 +8,15 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Read the *ucking Asoiaf Manual',
+  title: 'Read the Fabulous Asoiaf Manual',
   tagline: 'Unofficial community answers to common rules questions',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://faustoc.github.io',
+  url: 'https://rtfamanual.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/rtfam',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
