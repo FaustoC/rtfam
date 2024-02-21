@@ -124,20 +124,16 @@ const config = {
                 href: 'https://twitter.com/docusaurus',
               },
             ],
-          },
+          },*/
           {
-            title: 'More',
+            
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+		      label: 'Requests and Suggestions',
+                href: 'https://github.com/FaustoC/rtfam/issues',
               },
             ],
-          },*/
+          },
         ],
         copyright: `Built by Fenice with Docusaurus.`,
       },
