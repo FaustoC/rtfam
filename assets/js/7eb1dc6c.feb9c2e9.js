@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrtfam=self.webpackChunkrtfam||[]).push([[2914],{6238:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/rtfam/blog/tags/facebook","allTagsPath":"/rtfam/blog/tags","count":1,"unlisted":false}')}}]);

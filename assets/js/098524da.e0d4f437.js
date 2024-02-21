@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrtfam=self.webpackChunkrtfam||[]).push([[9656],{2777:e=>{e.exports=JSON.parse('{"title":"General","description":"Generals most wanted answers.","slug":"/category/general","permalink":"/docs/category/general","navigation":{"next":{"title":"Does Lance Target?","permalink":"/docs/general/does lance target"}}}')}}]);

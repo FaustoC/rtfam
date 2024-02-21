@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrtfam=self.webpackChunkrtfam||[]).push([[5722],{8377:t=>{t.exports=JSON.parse('{"permalink":"/rtfam/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
