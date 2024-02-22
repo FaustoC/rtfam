@@ -1,5 +1,5 @@
 ---
-title: Vargo Hoat & Take The Black
+title: Vargo Hoat and Take The Black
 tags:
   - Vargo Hoat
   - Take The Black

@@ -1,5 +1,5 @@
 ---
-title: Careless Aggression & Tristifer Botley
+title: Careless Aggression and Tristifer Botley
 tags:
   - Careless Aggression
   - Tristifer Botley
@@ -7,7 +7,7 @@ tags:
 
 ---
 
-# Careless Aggression & Tristifer Botley
+# Careless Aggression and Tristifer Botley
 
 If you play **Careless Aggression** can you use **Tristifer Botley** when the opponent activates his NCU?
 :::warning[YES]

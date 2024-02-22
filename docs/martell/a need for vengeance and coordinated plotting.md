@@ -1,12 +1,12 @@
 ---
-title: A Need for Vengeance & Coordinated Plotting
+title: A Need for Vengeance and Coordinated Plotting
 tags:
   - A Need for Vengeance
   - Coordinated Plotting
 
 ---
 
-# A Need for Vengeance & Coordinated Plotting
+# A Need for Vengeance and Coordinated Plotting
 
 ## You are the active player
 

@@ -1,5 +1,5 @@
 ---
-title: Xaro Xhoan Daxos & Lance Cav
+title: Xaro Xhoan Daxos and Lance Cav
 tags:
   - Xaro Xhoan Daxos
   - Lance Cav
@@ -7,7 +7,7 @@ tags:
 
 ---
 
-# Xaro Xhoan Daxos & Lance Cav
+# Xaro Xhoan Daxos and Lance Cav
 
 If you use a token from **Xaro Xhoan Daxos** on a Lance Cav attacking you, to lower his rank by 1, how many dice will a charging **Lance Cav** roll?
 :::tip[Depends]
