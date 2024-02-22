@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Read the Fabulous Asoiaf Manual',
-  tagline: 'Unofficial community answers to common rules questions',
+  tagline: 'Unofficial community answers to common rules questions about ASOIAF TMG',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
