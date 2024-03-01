@@ -8,7 +8,7 @@ tags:
 
 # Walder Frey and Outflank
 
-Does the combo of **Walder Frey** plus **Outflank** enables you to deploy the outflanking unit and *then* become active player?
+Does the combo of **Walder Frey** plus **Outflank** enables you to deploy the outflanking unit and *then* become first player?
 
 
 :::warning[YES]
