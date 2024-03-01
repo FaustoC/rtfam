@@ -16,7 +16,7 @@ If **A Flayed Man Has No Secrets** is played to cancel **Tywin's Rains of Castam
 
 **YES**, you can use **Tywin's Rains of Castamere** on another turn.
 
-Since the Season 4 FAQ all the targets of an ability needs to be pre-declared, even if there are prerequisites to use that ability, so in the target declaration **A Flayed Man Has No Secrets** can cancel the whole effect, even the "Once per game" part of **Tywin's Rains of Castamere**.
+Since the Season 4 FAQ all the targets of an ability needs to be pre-declared, even if there are prerequisites to use that ability, so in the target declaration step of **Tywin's Rains of Castamere** the opponent can use **A Flayed Man Has No Secrets** to cancel the whole effect, even the "Once per game" part of **Tywin's Rains of Castamere**.
 
 :::
 
