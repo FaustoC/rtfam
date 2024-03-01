@@ -32,4 +32,7 @@
 .algoliaSearchBarCustom {width : 52%;}
 .algoliaSearchBarCustom button.DocSearch {width:100%;}
 
+.pagination-nav {
+  display: none;
+}
 
