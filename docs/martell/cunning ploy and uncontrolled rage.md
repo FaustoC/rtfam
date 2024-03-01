@@ -12,7 +12,7 @@ tags:
 # How does Cunning Ploy interact with Uncontrolled Rage from Obara Sand?
 
 
-If you use **Cunnin Ploy** when you activate a unit with Obara Sand Sand Snake attachment, do you get to do the **Uncontrolled Rage** ability?
+If you use **Cunning Ploy** when you activate a unit with Obara Sand Sand Snake attachment, do you get to do the **Uncontrolled Rage** ability?
 
 :::warning[Need an FAQ]
 

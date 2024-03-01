@@ -10,7 +10,7 @@ tags:
 # How does Cunning Ploy interact with Cavalry maneuver?
 
 
-If you use **Cunnin Ploy**  when you activate a Cavalry unit, do you get to do the Cavalry maneuver?
+If you use **Cunning Ploy**  when you activate a Cavalry unit, do you get to do the Cavalry maneuver?
 
 :::warning[Need an FAQ]
 
