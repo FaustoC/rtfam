@@ -30,6 +30,26 @@ function HomepageHeader() {
   );
 }
 
+function NeedanFAQ() {
+  const {siteConfig} = useDocusaurusContext();
+  return (
+      <div className="container text--center">
+        <Heading as="h3" >
+          How many questions need an FAQ right now?
+        </Heading>
+	<p><b>2</b>, at the moment.<br/></p>
+	<p>The number is surely higher but, at the moment, not every question is in the database.</p>
+        <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="docs/tags/need-an-faq/">
+            Open the list of FAQ needing questions
+          </Link>
+        </div>
+      </div>
+  );
+}
+
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
@@ -39,6 +59,7 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <NeedanFAQ />
       </main>
     </Layout>
   );
