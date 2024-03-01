@@ -1,8 +1,7 @@
 ---
-title: Walder Frey and Outflank
+title: Walder Frey and Walder Frey
 tags:
   - Walder Frey
-  - Outflank
 
 ---
 
