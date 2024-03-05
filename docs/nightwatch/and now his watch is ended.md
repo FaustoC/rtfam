@@ -1,7 +1,7 @@
 ---
 title: And now his watch is ended
 tags:
-  - And now his watch is ended
+  - And Now His Watch is Ended
 
 ---
 
