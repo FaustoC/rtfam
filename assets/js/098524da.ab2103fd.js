@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrtfam=self.webpackChunkrtfam||[]).push([[9656],{2777:a=>{a.exports=JSON.parse('{"title":"General","description":"Generals most wanted answers.","slug":"/category/general","permalink":"/docs/category/general","navigation":{"next":{"title":"Arya Stark and Coordination Tactics","permalink":"/docs/general/arya stark and coordination tactics"}}}')}}]);
