@@ -36,7 +36,7 @@ const config = {
 
   presets: [
     [
-      'classic',
+       '@docusaurus/preset-classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
@@ -56,6 +56,11 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
+        gtag: {
+          trackingID: 'G-B2S7EKXCJN',
+          anonymizeIP: true,
+        },
+        
       }),
     ],
   ],
