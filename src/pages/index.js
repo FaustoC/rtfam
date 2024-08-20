@@ -37,7 +37,7 @@ function NeedanFAQ() {
         <Heading as="h3" >
           How many questions need an FAQ right now?
         </Heading>
-	<p><b>3</b>, at the moment.<br/></p>
+	<p><b>4</b>, at the moment.<br/></p>
 	<p>The number is surely higher but, at the moment, not every question is in the database.</p>
         <div className={styles.buttons}>
           <Link
