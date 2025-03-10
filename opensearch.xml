@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
                        xmlns:moz="http://www.mozilla.org/2006/browser/search/">
-  <ShortName>Read the Fabulous Asoiaf Manual</ShortName>
-  <Description>Search Read the Fabulous Asoiaf Manual</Description>
+  <ShortName>ASOIAF:TMG Unofficial Community FAQ</ShortName>
+  <Description>Search ASOIAF:TMG Unofficial Community FAQ</Description>
   <InputEncoding>UTF-8</InputEncoding>
   <Image width="16" height="16" type="image/x-icon">https://rtfamanual.com/img/favicon.ico</Image>
   <Url type="text/html" method="get" template="https://rtfamanual.com/search?q={searchTerms}"/>
