@@ -43,4 +43,8 @@ Yes.
 
 No. Once destroyed, the Attachment is permanently lost. The unit may only restore generic models.
 
+# ATTACHMENTS “IGNORING USUAL ATTACHMENT LIMITS”
 
+#### When effects say to “ignore usual attachment limits”, what exactly is ignored? 
+
+The limit of 1 attachment per unit, as well as standard list building rules of point limit and faction. You DO NOT ignore the unit type restrictions ( the attachment must still be of the same unit type they are being added to ). 
