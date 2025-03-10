@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Read the Fabulous Asoiaf Manual',
-  tagline: 'Unofficial community answers to common rules questions about ASOIAF TMG',
+  title: 'ASOIAF:TMG Unofficial Community FAQ',
+  tagline: 'ASOIAF:TMG Unofficial Community FAQ',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -71,9 +71,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/rtfam-social-card.png',
       navbar: {
-        title: 'rtfAm',
+        title: 'cfaq',
         logo: {
-          alt: 'Read The Fabulous Asoiaf Manual',
+          alt: 'ASOIAF:TMG Unofficial Community FAQ',
           src: 'img/logo.png',
         },
         items: [
