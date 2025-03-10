@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrtfam=self.webpackChunkrtfam||[]).push([[5151],{350:a=>{a.exports=JSON.parse('[{"label":"ACTIVATED","permalink":"/docs/tags/activated","count":1},{"label":"ATTACHMENTS","permalink":"/docs/tags/attachments","count":1}]')}}]);
