@@ -7,7 +7,7 @@ tags:
 
 # REPLACEMENT OF TACTICS ZONE EFFECTS AND TARGETING UNITS  
 
-####  If an ability or tactics card replaces a Zone effect on the tactics board does the combat unit targeted count as being targeted by the ability/tactics card in question?  
+###  If an ability or tactics card replaces a Zone effect on the tactics board does the combat unit targeted count as being targeted by the ability/tactics card in question?  
 
 No. The unit in question is being targeted by the zone and its effect - not the tactics card/ability.  
 

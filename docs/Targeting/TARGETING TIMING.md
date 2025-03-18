@@ -7,7 +7,7 @@ tags:
 
 # TARGETING TIMING
 
-#### When exactly do I declare targets of effects?
+### When exactly do I declare targets of effects?
 
 You need to declare all targets immediately before you resolve the effect. Additionally, you must check that targets which are defined by the trigger (see 4. above) are legal targets when you declare the effect.
 **Example:**

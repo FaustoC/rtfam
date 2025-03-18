@@ -7,12 +7,12 @@ tags:
 
 # DESTROYED STATE
 
-#### If a unit would be destroyed after the "Defender Rolls Defense Dice" but stays alive as a part of an ability, order or Tactics card (e.g., Last Stand), does it suffer the Panic Test triggered as part of the Attack suffered?
+### If a unit would be destroyed after the "Defender Rolls Defense Dice" but stays alive as a part of an ability, order or Tactics card (e.g., Last Stand), does it suffer the Panic Test triggered as part of the Attack suffered?
 
 
 Yes.
 
-#### Can units that are Destroyed perform actions?
+### Can units that are Destroyed perform actions?
 
 Community errata, at Pg. 7 of the manual replace :  
 

@@ -7,7 +7,7 @@ tags:
 
 # TARGETING “BASICS”
 
-#### When are units considered to be targeted by an effect? 
+### When are units considered to be targeted by an effect? 
 
 
  There are four conditions that determine targeting. If at least 1 of these conditions is true, 	then the unit is a target of the effect.
@@ -17,7 +17,7 @@ tags:
 4. The effect is an Order or Tactics card, and the unit triggers that Order or Tactics card (meaning: the unit is the subject of the trigger sentence).
 
 
-#### Can an effect have multiple targets? 
+### Can an effect have multiple targets? 
 
 Yes. They don't need to satisfy the same test. One section may say target, and another says choose. Both sections therefore target for different reasons. 
 **EXAMPLES:**
@@ -28,7 +28,7 @@ Yes. They don't need to satisfy the same test. One section may say target, and a
 **Order: Sentinel** "After another friendly unit in Long Range is Attacked" The friendly unit is the subject of the trigger sentence, so it is targeted. Additionally the unit using Order: Sentinel is a target, as it is an order of the unit itself. (3, 4) 
 **Fire made Flesh** "When an enemy Attacks a friendly Drogon, Rhaegal, or Viserion unit, after rolling Defense Dice:" The enemy is the subject of the trigger, so it is a target. Even though Drogon, Rhaegal, and Viserion are mentioned in the trigger, they are not the subjects, therefore are not targeted.
 
-#### Can I target Combat units that are not on the battlefield (such as Combat Units in Reserve) with Abilities/effects?
+### Can I target Combat units that are not on the battlefield (such as Combat Units in Reserve) with Abilities/effects?
 
 No.
 

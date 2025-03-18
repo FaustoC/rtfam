@@ -7,7 +7,7 @@ tags:
 
 # TACTICS CARDS
 
-#### When do I draw the first hand of Tactics Cards?
+### When do I draw the first hand of Tactics Cards?
 
 
 Right after the Deployment, (before selecting first player -CFAQ ed.)

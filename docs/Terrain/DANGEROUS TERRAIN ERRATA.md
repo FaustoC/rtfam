@@ -7,7 +7,7 @@ tags:
 
 # DANGEROUS TERRAIN ERRATA
 
-#### Can I take damage from Dangerous terrain multiple times during the same action, (by say moving off and onto it several times?)
+### Can I take damage from Dangerous terrain multiple times during the same action, (by say moving off and onto it several times?)
 
 
 No. Community Errata: Treat Dangerous in the rulebook as reading:

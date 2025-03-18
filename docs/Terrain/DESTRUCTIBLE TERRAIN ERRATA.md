@@ -7,7 +7,7 @@ tags:
 
 # DESTRUCTIBLE TERRAIN ERRATA
 
-#### When attacking a terrain with the "Destructible" keyword, can you use abilities that work during the attack? (E.g., rally cry before rolling dice).
+### When attacking a terrain with the "Destructible" keyword, can you use abilities that work during the attack? (E.g., rally cry before rolling dice).
 
 
 No. Community Errata: Treat destructible in the rulebook as reading: 
