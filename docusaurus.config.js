@@ -86,8 +86,8 @@ const config = {
 	  {
 		type: 'docSidebar',
 		position: 'left',
-		sidebarId: 'rtfamSidebar',
-     		label: 'Manual',
+		sidebarId: 'cfaqSidebar',
+     		label: 'Community FAQ',
 	  },
           /*{to: '/blog', label: 'Blog', position: 'left'},
           {
