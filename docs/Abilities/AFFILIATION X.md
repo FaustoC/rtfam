@@ -1,7 +1,7 @@
 ---
-title: AFFILIATION\: X
+title: AFFILIATION X
 tags:
-  - AFFILIATION\: X
+  - AFFILIATION X
 
 ---
 
