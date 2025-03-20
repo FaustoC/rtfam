@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcfaq=self.webpackChunkcfaq||[]).push([[8166],{130:e=>{e.exports=JSON.parse('{"label":"EMBOLDEN","permalink":"/docs/tags/embolden","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Abilities/EMBOLDEN","title":"EMBOLDEN","description":"Does this affect itself?","permalink":"/docs/Abilities/EMBOLDEN"}],"unlisted":false}')}}]);
