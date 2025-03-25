@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcfaq=self.webpackChunkcfaq||[]).push([[5435],{6401:e=>{e.exports=JSON.parse('{"label":"FAITH","permalink":"/docs/tags/faith","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Abilities/FAITH","title":"FAITH","description":"When exactly does the faith token get spent?","permalink":"/docs/Abilities/FAITH"}],"unlisted":false}')}}]);
