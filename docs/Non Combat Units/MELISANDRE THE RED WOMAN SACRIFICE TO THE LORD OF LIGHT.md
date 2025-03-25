@@ -1,0 +1,12 @@
+---
+title: "MELISANDRE, THE RED WOMAN: SACRIFICE TO THE LORD OF LIGHT"
+tags:
+  - "MELISANDRE, THE RED WOMAN: SACRIFICE TO THE LORD OF LIGHT"
+
+---
+
+# MELISANDRE, THE RED WOMAN: SACRIFICE TO THE LORD OF LIGHT
+
+### Can I suffer the Panic Test before suffering the 2 Wounds?
+
+Yes.
